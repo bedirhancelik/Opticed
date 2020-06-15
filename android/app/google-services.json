@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674140484826",
+    "firebase_url": "https://opticed-f131a.firebaseio.com",
+    "project_id": "opticed-f131a",
+    "storage_bucket": "opticed-f131a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674140484826:android:1f0efaa9da1791591ee1e3",
+        "android_client_info": {
+          "package_name": "com.opticed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674140484826-be7ht7d7n62q72ulp9jkroaplpu55a1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_vpcZMGfPU9KqtWDLj1HoXkVqVRCtBTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674140484826-be7ht7d7n62q72ulp9jkroaplpu55a1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
